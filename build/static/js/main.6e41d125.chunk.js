@@ -1,0 +1,2 @@
+(this.webpackJsonpuntitled=this.webpackJsonpuntitled||[]).push([[0],{41:function(e,t,n){},48:function(e,t,n){"use strict";n.r(t);n(9);var c=n(32),s=n(28),i=(n(41),n(29)),o=n(20);function r(){return Object(o.jsx)(i.a,{scene:"https://prod.spline.design/0FuUdiFNViZCquGL/scene.splinecode"})}var u=document.getElementById("root");Object(s.createRoot)(u).render(Object(o.jsx)(c.a,{children:Object(o.jsx)(r,{})}))}},[[48,1,2]]]);
+//# sourceMappingURL=main.6e41d125.chunk.js.map
